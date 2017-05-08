@@ -1,0 +1,1 @@
+/home/konny/ogl/Laboratorio2/Piso/build/CMakeFiles/Piso.dir
